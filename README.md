@@ -13,5 +13,8 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### Organic Food App UI
 
+![App UI](/organic.gif)
+
 ![App UI](/organicallscr.png)
+
 ![App UI](/organicthumb.png)
